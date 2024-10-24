@@ -28,6 +28,15 @@ button{
     padding: 5px;
 }
 
+button:hover{
+    border: none;
+    border-radius: 6px;
+    color: #ffffff;
+    background-color: #CC9055;
+    font-family:customFont;
+    padding: 5px;
+}
+
 .active{
     color: #FFFFFF;
     background-color: #CC9055;
