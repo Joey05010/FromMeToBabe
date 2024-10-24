@@ -1,0 +1,36 @@
+body{
+    background-image:url(/HTML/images/BG/1x/letterBG.png);
+    background-attachment: fixed;
+    background-position:center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.passage{
+    color: #ffff;
+    font-size: 2em;
+    display: flex;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 15px;
+}
+
+.top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Home_screen{
+    font-size: 1em;
+}
+
+@media screen and (max-width: 500px){
+    body{
+        background-color: aquamarine;
+    }
+
+    .Home_screen{
+        align-items: center;
+    }
+}
