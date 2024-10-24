@@ -1,0 +1,35 @@
+
+.Home_screen{
+    FONT-SIZE: large;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.message{
+display: flex;
+padding-left: 0;
+}
+
+.Main_letters{
+    display: flex;
+    font-size: 200px;
+    padding-right: 0px;
+    padding-top: 40px;
+    margin: 0px;
+}
+
+.text{
+    color: #FFFFFF;
+    display: flex;
+    padding-top: 95px;
+    font-size: 50px;
+    padding-right: 25px;
+}
+
+.K_text{
+    color: #FFFFFF;
+    display: flex;
+    padding-top: 95px;
+    font-size: 50px;
+    padding-left:10px;
+}

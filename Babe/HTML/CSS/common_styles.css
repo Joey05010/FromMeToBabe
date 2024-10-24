@@ -1,0 +1,66 @@
+
+h1,h4{
+    color: #FFFFFF;
+    font-family: customFont;
+    font-weight: 100;
+}
+
+P{
+    color: #FFFFFF;
+    font-family: customFont;
+    font-weight: 100;
+}
+
+.top{
+    padding-left: 90%;
+    padding-top: 25px;
+    margin-right: 12px;
+}
+
+button{
+    border: none;
+    border-radius: 6px;
+    color: #CC9055;
+    font-family:customFont;
+    padding: 5px;
+}
+
+.active{
+    color: #FFFFFF;
+    background-color: #CC9055;
+    font-size: 3em;
+}
+
+.letbuttons{
+    display: flex;
+    justify-content:space-evenly;
+}
+
+.T{
+    font-size: 3em;
+}
+
+.U{
+    font-size: 3em;
+}
+
+.B{
+    font-size: 3em;
+}
+
+.U{
+    font-size: 3em;
+}
+
+.K{
+    font-size: 3em;
+}
+
+.O{
+    font-size: 3em;
+}
+
+@font-face {
+    font-family:customFont;
+    src: url(Fonts/Casta-ThinSlanted.otf);
+}
